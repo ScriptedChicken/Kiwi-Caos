@@ -3,7 +3,7 @@
 
 Qué es Kiwi Caos?
 - Un juego de mesa que mezcla elementos de Munchkins con la vida diaria de un picker de kiwis en Tauranga, Nueva Zelanda.
-- Un generador de cartas que les convierte en hojas de cartas, todas listas para imprimir, cortar, y usar.
+- Un generador de cartas que convierte ficheros de CSV en hojas de cartas, todas listas para imprimir, cortar, y usar.
 
 Que lo disfruten!
 
