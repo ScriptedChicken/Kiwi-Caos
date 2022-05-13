@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="dibujo_atras.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/chook/Documentos/juego_de_kiwifruit/templados/dibujo_atras_clima.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="182.55842"
+       y="444.75534"
+       width="499.86712"
+       height="319.83643"
+       id="rect3815" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath83133">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.6418;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect83135"
+         width="420.61697"
+         height="2612.3752"
+         x="-15.083051"
+         y="-21.959993"
+         ry="1.8671305" />
+    </clipPath>
+    <rect
+       x="182.55843"
+       y="444.75534"
+       width="499.86713"
+       height="319.83643"
+       id="rect3815-1" />
+    <rect
+       x="182.55843"
+       y="444.75534"
+       width="499.86713"
+       height="319.83643"
+       id="rect3815-9" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-436.23147"
+     inkscape:cy="211.54517"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.25718784;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="rect880"
+     width="212.96095"
+     height="301.19785"
+     x="-1.1114388"
+     y="-0.24606811"
+     ry="0.18576419"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <g
+     inkscape:label="Capa 1"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.35440063px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63087398"
+       x="189.25983"
+       y="24.526327"
+       id="Code"
+       inkscape:label="Code" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21607879,0.15269019,-0.15269019,0.21607879,92.109442,-24.761478)"
+       id="textbox"
+       style="font-style:normal;font-weight:normal;font-size:136px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3815);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.15906;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:label="#text3813"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="208.80273"
+         y="565.08398"
+         id="tspan11366">Clima</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#393a39;stroke-width:3.41499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -3.8048214,37.305265 213.44303,187.22756"
+       id="path868"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#393a39;stroke-width:3.41499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -3.0351083,117.90356 213.89142,267.60408"
+       id="path868-8"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

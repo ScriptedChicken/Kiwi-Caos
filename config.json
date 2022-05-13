@@ -1,0 +1,106 @@
+{
+    "es":{
+        "Plantar":{
+            "colour":"#5ee252",
+            "code":"P"
+        },
+        "Acción":{
+            "colour":"#e9a456",
+            "code":"A"
+        },
+        "Ambos":{
+            "colour":"#e059ec",
+            "code":"?"
+        },
+        "Clima":{
+            "colour":{
+                "sol":"#e9e644",
+                "lluvia":"#4b89e6",
+                "nubes":"#747474"
+            },
+            "code":"C"
+        },
+        "Objeto":{
+            "colour":"#f07474",
+            "code":"O"
+        }
+    },
+    "en":{
+        "Planting":{
+            "colour":"#5ee252",
+            "code":"P"
+        },
+        "Action":{
+            "colour":"#e9a456",
+            "code":"A"
+        },
+        "Both":{
+            "colour":"#e059ec",
+            "code":"?"
+        },
+        "Weather":{
+            "colour":{
+                "sun":"#e9e644",
+                "rain":"#4b89e6",
+                "clouds":"#747474"
+            },
+            "code":"W"
+        },
+        "Object":{
+            "colour":"#f07474",
+            "code":"I"
+        },
+        "imageNameDict":{
+            "Party Pooper":"Aguafiestas",
+            "Beach day":"Beach day",
+            "Hi-Cane Bomb":"Bomba de Hi-Cane",
+            "Rapid Ruru":"Ruru Rápido",
+            "Fishing Rod":"Caña de pescar",
+            "Psychic Control":"Control Psíquico",
+            "DJ S4vage":"DJ Onda",
+            "Magic Mirror":"Espejo mágico",
+            "Blessed Fertiliser":"Fertilizante bendecido",
+            "Smelly Fertiliser":"Fertilizante oloroso",
+            "Sacred Fire":"Fuego sagrado",
+            "Grappling Hook":"Gancho arrojadizo",
+            "Ganja rush":"Ganja rush",
+            "Godzilla":"Godzilla",
+            "Shout At The Workers":"Gritar tus trabajadores",
+            "Strike":"Huelga",
+            "Raincoat":"Impermeable",
+            "Jacked":"Jacked",
+            "Lasso":"Lazo vaquero",
+            "True Loyalty":"Lealtad verdadera",
+            "Rain":"Lluvia",
+            "Stinky Manager":"Mánager maloliente",
+            "Overcharged Hose":"Manguera poderosa",
+            "Magic Marker":"Marcador mágico",
+            "Coffee":"Café",
+            "Ninjas In The Trees!":"Ninjas en los arboles!",
+            "Nope":"Nope",
+            "Clouds":"Nubes",
+            "Paying Under The Table":"Pagar en negro",
+            "Dead Speaker":"Parlante muerto",
+            "BBQ":"Parrilla",
+            "Wandering Dog":"Perrito ambulante",
+            "Phone a friend":"Phone a friend",
+            "Cursed Plant":"Planta hechizada",
+            "Psych!":"Psych!",
+            "Grabby Octopus":"Pulpo Acaparador",
+            "Appeasing Sacrifice":"Sacrificio aplacante",
+            "Ham Sándwich":"Sándwich de jamón",
+            "Shaky shaky":"Shaky shaky",
+            "Sleep in":"Sleep in",
+            "Snorlax":"Snorlax",
+            "Bribe":"Sobornar",
+            "Sun":"Sol",
+            "Surprise Rain":"Sorpresa de lluvia",
+            "Teleporter":"Teletransportador",
+            "Lazy Worker":"Trabajador vago",
+            "Dead Tractor":"Tractor muerto",
+            "Lazy Cow":"Vaca perezosa",
+            "The Curse of Thomas":"Maldición de Tomás",
+            "Opshopping":"Opshopping"
+        }
+    }
+}
