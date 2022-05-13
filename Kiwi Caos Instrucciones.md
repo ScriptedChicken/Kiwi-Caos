@@ -1,8 +1,8 @@
-**KiwiCaos – Instrucciones**
+**Kiwi Caos – Instrucciones**
 
 **Introducción:**
 
-KiwiCaos es un juego en lo que intentas recoger los más puntos posibles que los demás. Estos puntos, conocidos como kiwi puntos o KP se pueden ganar por moverte por la tabla y coleccionar kiwis. Por suerte, tienes acciones y objetos que te van a ayudar, pero también es lo mismo para los demás. Y encima de todo esto tienes la moral para ocuparte... Ten cuidado!
+Kiwi Caos es un juego en lo que intentas recoger los más puntos posibles que los demás. Estos puntos, conocidos como kiwi puntos o KP se pueden ganar por moverte por la tabla y coleccionar kiwis. Por suerte, tienes acciones y objetos que te van a ayudar, pero también es lo mismo para los demás. Y encima de todo esto tienes la moral para ocuparte... Ten cuidado!
 
 **Fases de ronda:**
 
@@ -44,4 +44,4 @@ KiwiCaos es un juego en lo que intentas recoger los más puntos posibles que los
 
 **La moral:**
 
-La escala de la moral visualiza a moral de tu equipo de trabajadores. Tu nivel de moral te permite jugar ciertas cartas poderosas. En general, un nivel de moral bajo de va a dar beneficios rápidos pero hay más riesgo de perder más. Un nivel alto de moral es más duro de conseguir, pero 
+La escala de la moral visualiza a moral de tu equipo de trabajadores. Tu nivel de moral te permite jugar ciertas cartas poderosas. En general, un nivel de moral bajo de va a dar beneficios rápidos pero hay más riesgo de perder más. Un nivel alto de moral es más duro de conseguir, pero te dan beneficios más seguros.
