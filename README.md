@@ -7,7 +7,7 @@ Qué es Kiwi Caos?
 
 Que lo disfruten!
 
-What is Kiwi Caos?
+What is Kiwi Chaos?
 - A board game that mixes Munchkins-esque gameplay with the everyday life of a kiwifruit picker in Tauranga, New Zealand.
 - A card generator that converts CSV files into card sheets, all ready to be printed, cut out, and used.
 
