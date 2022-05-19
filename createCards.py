@@ -272,7 +272,7 @@ cardCreator.setSvgTemplatePath("templados/dibujo.svg")
 cardCreator.setConfigPath("config.json")
 cardCreator.generateCards()
 cardCreator.createCardSheets()
-cardCreator.cleanup()
+# cardCreator.cleanup()
 
 end = time.time()
 

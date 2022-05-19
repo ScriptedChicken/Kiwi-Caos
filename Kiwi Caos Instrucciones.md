@@ -6,7 +6,7 @@ Kiwi Caos es un juego en lo que intentas recoger los más puntos posibles que lo
 
 **Fases de ronda:**
 
-    1. Saqa una carta de clima.
+    1. Saqa una carta de clima. Pon ésta boca arriba en un lugar dónde todo el mundo lo vea. El clima en la carta afecta a todos los jugadores.
 
     2. Cada jugador va en secuencia, jugando su turno.
 
@@ -14,7 +14,7 @@ Kiwi Caos es un juego en lo que intentas recoger los más puntos posibles que lo
 
     1. Saca una carta de la pila.
 
-    2. Juega las cartas que quieras. 
+    2. Juega cartas desde tu mano. 
 
 *Ve: Jugando cartas*
 

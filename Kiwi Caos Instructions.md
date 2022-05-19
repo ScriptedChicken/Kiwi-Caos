@@ -1,8 +1,8 @@
-**Kiw Caos – Instructions**
+**Kiwi Chaos – Instructions**
 
 **Introduction:**
 
-Kiwi Caos is a boardgame en which you try to collect more points than everyone else. These points, known as kiwi points or KP can be earned by moving around the board and collecting kiwis. Luckily, you have actions and items that are going to help you but it's also the same for everyone else. On top of this, you have the morale to keep you busy... Be careful!
+Kiwi Chaos is a boardgame en which you try to collect more points than everyone else. These points, known as kiwi points or KP can be earned by moving around the board and collecting kiwis. Luckily, you have actions and items that are going to help you but it's also the same for everyone else. On top of this, you have the morale to keep you busy... Be careful!
 
 **Playing a round:**
 
@@ -14,7 +14,7 @@ Kiwi Caos is a boardgame en which you try to collect more points than everyone e
 
     1. Draw a card from the deck.
 
-    2. Play the cards that you would like to play.
+    2. Play cards from your hand.
 
 *See: Playing cards*
 
